@@ -1,5 +1,5 @@
 # spring-boot-app
-Minimalist and sample spring boot application that is made for testing purposes, without any dependecies whatsoever.
+Minimalist and sample spring boot application that is made for testing purposes, without any dependencies whatsoever.
 
 # MAKE SURE YOU HAVE JDK AND JAVA PACKAGES INSTALLED ALONG WITH MAVEN (build tool) INSTALLED IN ORDER TO RUN THIS.
 
