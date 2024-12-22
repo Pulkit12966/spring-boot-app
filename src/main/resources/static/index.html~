@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio - Pulkit Pal</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <img src="profile.jpg" alt="Profile Picture" class="profile-pic">
+            <h1>Pulkit Pal</h1>
+            <p>Student | Web Enthusiast | Explorer</p>
+        </header>
+        <main>
+            <section>
+                <h2>About Me</h2>
+                <p>Hello! I'm Pulkit Pal, a student passionate about technology, web development, and continuous learning. I enjoy exploring new tools and technologies to expand my skill set.</p>
+            </section>
+            <section>
+                <h2>Skills</h2>
+                <ul>
+                    <li>HTML & CSS</li>
+                    <li>JavaScript (Basics)</li>
+                    <li>Docker & Kubernetes</li>
+                    <li>Linux Administration</li>
+                </ul>
+            </section>
+            <section>
+                <h2>Contact</h2>
+                <p>Email: pulkitpal@example.com</p>
+            </section>
+        </main>
+    </div>
+</body>
+</html>
+
